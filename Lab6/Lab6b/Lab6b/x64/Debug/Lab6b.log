@@ -1,0 +1,8 @@
+﻿  StackArr.cpp
+  QueueMain.cpp
+e:\documents\visual studio 2015\projects\lab6b\lab6b\queuemain.cpp(19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\documents\visual studio 2015\projects\lab6b\lab6b\queuemain.cpp(20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  QueueArr.cpp
+  Generating Code...
+  Lab6b.vcxproj -> E:\Documents\Visual Studio 2015\Projects\Lab6b\x64\Debug\Lab6b.exe
+  Lab6b.vcxproj -> E:\Documents\Visual Studio 2015\Projects\Lab6b\x64\Debug\Lab6b.pdb (Full PDB)
